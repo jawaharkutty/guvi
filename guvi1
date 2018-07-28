@@ -6,10 +6,10 @@ class guvi1
         Scanner sc=new Scanner(System.in);
         int z=sc.nextInt();
         if(z<0)
-        System.out.print("NEGATIVE");
+        System.out.print("Negative");
         else if(z>0)
-        System.out.print("POSITIVE");
+        System.out.print("Positive");
         else
-        System.out.print("ZERO");
+        System.out.print("Zero");
     }
 }
